@@ -1,0 +1,5 @@
+{
+  "name": "dev-server",
+  "private": true,
+  "type": "module"
+}
